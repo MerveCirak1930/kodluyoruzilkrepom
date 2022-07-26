@@ -3,7 +3,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 www.patika.dev
 
-![Projemizden bir fotograf]()
+![Projemizden bir fotograf](https://www.hizliresim.com/dgtcj9n)
 
 ## Installation
 Öncelikle projeyi clonelayın.
@@ -15,10 +15,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-```
+ ```
 cd kodluyoruzilkrepo
 code .
-```
+ ```
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
