@@ -3,7 +3,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 www.patika.dev
 
-![Projemizden bir fotograf](https://www.hizliresim.com/dgtcj9n)
+![Ekran Alıntıs343ı](https://user-images.githubusercontent.com/107585170/181018761-1c1a6190-86b8-4ec0-9557-679a1958e01c.PNG)
+
 
 ## Installation
 Öncelikle projeyi clonelayın.
